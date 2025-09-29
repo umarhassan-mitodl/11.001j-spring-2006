@@ -5,6 +5,8 @@ description: This file contains four distict themes for the growth of Boston, fo
 file: /courses/11-001j-introduction-to-urban-design-and-development-spring-2006/2b138650c2e17fc9deb5137516cb5f88_3_forcesboston.pdf
 file_size: 967155
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

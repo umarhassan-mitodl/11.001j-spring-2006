@@ -4,6 +4,8 @@ description: ''
 file: /courses/11-001j-introduction-to-urban-design-and-development-spring-2006/9391b7cb90a58cd692219636fa7339dc_assn1.pdf
 file_size: 21500
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

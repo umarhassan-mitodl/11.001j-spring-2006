@@ -5,6 +5,8 @@ description: This file contains information about urban design and development, 
 file: /courses/11-001j-introduction-to-urban-design-and-development-spring-2006/3a7d2f0eb2ed25747eac4ca1768eb514_2_ways_of_see.pdf
 file_size: 1099100
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

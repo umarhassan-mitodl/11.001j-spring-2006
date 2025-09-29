@@ -4,6 +4,8 @@ description: This resource contains the images related to design of American cit
 file: /courses/11-001j-introduction-to-urban-design-and-development-spring-2006/996b827ad1b5e33439a6edee0746d3cf_11_001_Lecture_5.pdf
 file_size: 3659358
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

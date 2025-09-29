@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section contains course description and grading policy for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -11,7 +13,7 @@ uid: cfc21262-4ba6-87c3-c204-7ee026c14d11
 
 "A good environmental image gives its possessor an important sense of emotional security. This is the obverse of the fear that comes with disorientation. Potentially, the city is in itself the powerful symbol of a complex society."
 
-{{% resource_link "e87cf942-bd4c-4d6f-b095-740180611afa" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Lynch, Kevin. {{% resource_link "e87cf942-bd4c-4d6f-b095-740180611afa" "_The Image of the City_" %}}. Cambridge, MA: MIT Press, 1960, pp. 4-5. ISBN: 0262620014.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/image-city) Lynch, Kevin. [_The Image of the City_](https://mitpress.mit.edu/books/image-city). Cambridge, MA: MIT Press, 1960, pp. 4-5. ISBN: 0262620014.
 
 Course Meeting Times
 --------------------

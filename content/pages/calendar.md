@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains a calendar covering the topics for the sessions
   of the course and the key dates for them.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

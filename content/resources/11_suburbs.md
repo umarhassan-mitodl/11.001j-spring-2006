@@ -5,6 +5,8 @@ description: This file contains information on suburbs, changes in living and co
 file: /courses/11-001j-introduction-to-urban-design-and-development-spring-2006/e0c454cf8d8344e9f1da6b922d505b09_11_suburbs.pdf
 file_size: 2423367
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
