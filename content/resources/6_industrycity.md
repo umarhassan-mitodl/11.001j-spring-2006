@@ -5,8 +5,6 @@ description: This file contains information about american workplace along with 
 file: /courses/11-001j-introduction-to-urban-design-and-development-spring-2006/2e8cf8893cb38036e0c49c514d039ec5_6_industrycity.pdf
 file_size: 1742526
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

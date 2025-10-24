@@ -7,8 +7,6 @@ description: This file contains information about sprawl, Massachusetts growing 
 file: /courses/11-001j-introduction-to-urban-design-and-development-spring-2006/856538cbe0530be12bf442fbcb90588d_13_growth_mgt.pdf
 file_size: 1936920
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

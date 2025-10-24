@@ -5,8 +5,6 @@ description: This file contains exercise on one of the pairs of urban environmen
 file: /courses/11-001j-introduction-to-urban-design-and-development-spring-2006/ab05c98a3a39e1e9963491ad44ea58c2_assnfinalpaper.pdf
 file_size: 125628
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

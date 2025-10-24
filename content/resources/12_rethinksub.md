@@ -5,8 +5,6 @@ description: This file contains information on urbanism vs. suburbanism, urban, 
 file: /courses/11-001j-introduction-to-urban-design-and-development-spring-2006/8796e2df72e42813158c50f990b1387a_12_rethinksub.pdf
 file_size: 1623550
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

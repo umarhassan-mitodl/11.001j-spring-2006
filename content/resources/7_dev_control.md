@@ -5,8 +5,6 @@ description: This file contains information about zoning and it's purpose along 
 file: /courses/11-001j-introduction-to-urban-design-and-development-spring-2006/057df289a0c020d2eaec2d3ebdfbc5c1_7_dev_control.pdf
 file_size: 746935
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
